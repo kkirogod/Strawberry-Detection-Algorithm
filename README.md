@@ -41,7 +41,7 @@ El objetivo principal es diseñar un sistema de segmentación que reciba imágen
 ## Instalación y Uso
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/kkirogod/Strawberry-Detection-Algorithm.git
    ```
 2. Abrir MATLAB y ejecutar los scripts estapa por etapa.
 3. Analizar los resultados y ajustar los parámetros según sea necesario.
