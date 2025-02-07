@@ -3,6 +3,8 @@ Development of an algorithm for detecting strawberries in images by implementing
 
 The algorithm will receive images as input and will return as output the segmentation of the detected red strawberries, offering information about their degree of ripeness.
 
+![image](https://github.com/user-attachments/assets/3dbf0bae-3100-47ee-977e-40131d97be06)
+
 ## Descripción
 Este proyecto implementa un algoritmo para la detección de fresas en imágenes mediante técnicas de segmentación basadas en color. Utiliza distintos espacios de color y métodos de clasificación para identificar y segmentar los píxeles correspondientes a fresas maduras y en desarrollo, permitiendo evaluar su grado de madurez.
 
